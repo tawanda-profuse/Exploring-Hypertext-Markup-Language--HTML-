@@ -71,10 +71,10 @@ The anchor tag. In my opinion this is the most essential HTML element. The *'H'*
 
 Some common attributes for anchor are:
 
-- **href**: The value of this attribute is the URL which this element will redirect the user to after clicking.
-- **target**: Specifies the action to be taken by the web browser after clicking the link.
-- **class**: The value is accessible by CSS for styling and Javascript.
-- **id**: Similar to *class* in functionality but ideally used with Javascript only.
+  - **href**: The value of this attribute is the URL which this element will redirect the user to after clicking.
+  - **target**: Specifies the action to be taken by the web browser after clicking the link.
+  - **class**: The value is accessible by CSS for styling and Javascript.
+  - **id**: Similar to *class* in functionality but ideally used with Javascript only.
 
 The following representation of the anchor tag redirects a user to my website using **href**, opens in a new tab using **target** and, gives the tag a **class** and an **id**.
 
@@ -112,13 +112,13 @@ The input tag is available as many different types and defines the kind of infor
 
 The various input types are:
 
-1. **type="text"** - Accepts any character keyboard character such as text, number, or symbol.
-2. **type="email"** - This accepts any text that contains the "@" symbol, without it the form will not be saved.
-3. **type="password"** - The text will be obscured by symbols as the user enters it. 
-4. **type="date"** - This opens a context menu that renders a calendar for the user to select a combination of month, day, and year.
-5. **type="number"** - This text box only accepts numeric values.
-6. **type="file"** - A button appears that can be clicked to open the devices file explorer and the selection will be uploaded.
-7. **`<textarea></textarea>`** - This is not particularly an attribute but it is a tag that allows for multiline text like a message or a comment on a social media post.
+  1. **type="text"** - Accepts any character keyboard character such as text, number, or symbol.
+  2. **type="email"** - This accepts any text that contains the "@" symbol, without it the form will not be saved.
+  3. **type="password"** - The text will be obscured by symbols as the user enters it. 
+  4. **type="date"** - This opens a context menu that renders a calendar for the user to select a combination of month, day, and year.
+  5. **type="number"** - This text box only accepts numeric values.
+  6. **type="file"** - A button appears that can be clicked to open the devices file explorer and the selection will be uploaded.
+  7. **`<textarea></textarea>`** - This is not particularly an attribute but it is a tag that allows for multiline text like a message or a comment on a social media post.
 
 Here is an example of all the input types together:
 
@@ -172,4 +172,4 @@ Here's another article I wrote about [***How My Cat Inspired Me to Be a Better W
  
 ---
 
-### ***~ Thank you for reading***
+### *~ Thank you for reading*
