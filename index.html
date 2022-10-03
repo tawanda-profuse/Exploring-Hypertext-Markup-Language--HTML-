@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <title>Exploring Hypertext Markup Language</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="src/js/bootstrap.bundle.js"></script>
+    <script src="src/js/bootstrap.js"></script>
+    <script src="src/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="styles.css" />
+    <script>
+        var textSample = "Coding is fun!";
+   
+        console.log(textSample);
+    </script>
+    <style>
+        .form{
+            margin: 100px 300px;
+            border: 2px solid black;
+            padding: 10px 100px;
+        }
+        .inputSection{
+            margin-bottom: 20px;
+        }
+        h1{
+            text-align: center;
+        }
+    </style>
+  </head>
+  <body>
+    <div class="form">
+        <h1>My Web Form</h1>
+        <div class="inputSection">
+            <label for="acceptName">Name:</label>
+            <hr>
+            <input id="acceptName" type="text">
+        </div>
+        <div class="inputSection">
+            <label for="acceptEmail">Email:</label>
+            <hr>
+            <input id="acceptEmail" type="email">
+        </div>
+        <div class="inputSection">
+            <label for="acceptPassword">Password:</label>
+            <hr>
+            <input id="acceptPassword" type="password">
+        </div>
+        <div class="inputSection">
+            <label for="acceptDate">Date:</label>
+            <hr>
+            <input id="acceptDate" type="date">
+        </div>
+        <div class="inputSection">
+            <label for="acceptNum">Phone Number:</label>
+            <hr>
+            <input id="acceptNum" type="number">
+        </div>
+        <div class="inputSection">
+            <label for="acceptFile">Upload:</label>
+            <hr>
+            <input id="acceptFile" type="file">
+        </div>
+        <div class="inputSection">
+            <label for="acceptMessage">Message:</label>
+            <hr>
+            <textarea id="acceptMessage" cols="50"></textarea>
+        </div>
+    </div>
+  </body>
+</html>
