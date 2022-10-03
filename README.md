@@ -19,7 +19,7 @@ HTML allows you to write your content in anyway that you want, however, there ar
 The body element is placed immediately after the head tag and creates a semantic definition. Much like our bodies, the head is placed above the body in vertical order. The body tag contains all of the things that we see on a web page, all of the visual elements are placed between the opening and closing `<body>`. Essentially, we cannot see anything defined between the head tags because that is only for configuration purposes, so only the browser can read it. Have a look at the diagram below that I designed to explain HTML layout.
 
 **If HTML was a person**
-![An image of a person to represent the layout of html tags](human_html)
+![An image of a person to represent the layout of html tags](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-/blob/master/diagrams/human_html.png?raw=true)
 
 ## Division Tag
 
@@ -44,7 +44,7 @@ All text placed inside the paragraph tag will be formatted and displayed as a bl
 
 This will output in the same way that it was written:
 
-![An example output of preformatted text in HTML](pre_html)
+![An example output of preformatted text in HTML](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-/blob/master/diagrams/pre_html.png?raw=true)
 
 Whereas paragraph text will output like this:
 
@@ -57,13 +57,13 @@ Whereas paragraph text will output like this:
 </p>
 ```
 
-![An example output of paragraph tag text in HTML](ptag_html)
+![An example output of paragraph tag text in HTML](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-/blob/master/diagrams/ptag_html.png?raw=true)
 
 ## Image Tag
 
 Web pages look boring when they don't have pictures or photos, I even went to great lengths to include photos in this article. There are some websites on the internet that are rich in textual information but if you are a visual learner like me, you may find it difficult to concentrate on the screen. The HTML image tag is defined as **`<img src="#" alt="Some text">`**. The **src** or source attribute is important because the URL of the image should be placed inside the quotation marks as its value. The **alt** attribute is not mandatory but it serves the purpose of describing the image. It is also handy for disabled people because screen readers can pronounce the contents of the picture. The image below is an example of the image tag without a source:
 
-[An example output of an image text](alt_text)
+[An example output of an image text](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-/blob/master/diagrams/alt_text.png?raw=true)
 
 ## Anchor Tag
 
@@ -162,7 +162,7 @@ Here is an example of all the input types together:
 ```
 
 ***Example output of the code:***
-![Example output of the code](inputtypes)
+![Example output of the code](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-/blob/master/diagrams/inputtypes.png?raw=true)
 
 Not to worry, I've put the code on GitHub via this link: [Source code](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-). Now, go ahead and have a look at this ice cream company called 'Sweetooth' that I designed a website for. It's not a real company, just some creativity on my end. The source code is available [here](https://github.com/tawanda-profuse/sweetooth-ice-cream). The project includes other HTML elements that I did not go over in this article so make sure to have a look at each one of them.
 
