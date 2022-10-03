@@ -164,7 +164,7 @@ Here is an example of all the input types together:
 ***Example output of the code:***
 ![Example output of the code](inputtypes)
 
-Not to worry, I've put the code on GitHub via this link: [Source code](url). Now, go ahead and have a look at this ice cream company called 'Sweetooth' that I designed a website for. Don't worry it isn't a real company just some creativity on my end. The source code is available [here](https://github.com/tawanda-profuse/sweetooth-ice-cream). The project includes other HTML elements that I did not go over in this article so make sure to have a look at each one of them.
+Not to worry, I've put the code on GitHub via this link: [Source code](https://github.com/tawanda-profuse/Exploring-Hypertext-Markup-Language--HTML-). Now, go ahead and have a look at this ice cream company called 'Sweetooth' that I designed a website for. It's not a real company, just some creativity on my end. The source code is available [here](https://github.com/tawanda-profuse/sweetooth-ice-cream). The project includes other HTML elements that I did not go over in this article so make sure to have a look at each one of them.
 
 ---
 
